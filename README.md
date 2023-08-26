@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baghelkunalpal&label=Profile%20views&color=0e75b6&style=flat" alt="baghelkunalpal" /> </p>
 
-<img src="https://tse2.mm.bing.net/th?id=OIP.5Qh4ZQlc1ZcD1r0Y04xJWgHaEo&pid=Api&P=0&h=180" alt="Example Image" width="300" height="200">
+<img src="https://tse2.mm.bing.net/th?id=OIP.5Qh4ZQlc1ZcD1r0Y04xJWgHaEo&pid=Api&P=0&h=180" alt="Example Image" width="1000" height="200">
 - 🌱 I’m currently learning **node js**
 
 - 💬 Ask me about **react, c++, java, javascript**
