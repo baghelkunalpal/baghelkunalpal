@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm kunal pal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img src="https://tse2.mm.bing.net/th?id=OIP.5Qh4ZQlc1ZcD1r0Y04xJWgHaEo&pid=Api&P=0&h=180" alt="Example Image" width="300" height="200">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baghelkunalpal&label=Profile%20views&color=0e75b6&style=flat" alt="baghelkunalpal" /> </p>
 
