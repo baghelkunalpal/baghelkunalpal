@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **node js**
 
-- 💬 Ask me about **react, c++, java, javascript**
+- 💬 Ask me about **react js, redux toolkit, c++, java, javascript**
 
 - 📫 How to reach me **kunalpal2292004@gmail.com**
 
